@@ -13,6 +13,12 @@ $(document).ready(function() {
   function getQuote(){
 
     //YOUR CODE HERE, Add a GET request
+    // $.gets({
+    //   url: "index.html",
+    //   context: document.body
+    // }).done(function() {
+    
+    // });
 
   }
 
